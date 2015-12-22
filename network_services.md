@@ -39,6 +39,5 @@
 ## Boarding
 
 - (1) screen passengers for dangerous items and communicate incidents with servers or responsibles
-- 
 
 
