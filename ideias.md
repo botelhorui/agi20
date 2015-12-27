@@ -10,11 +10,11 @@ Puppet
 
 ## 6.2 - Monitoring of Performance
 
-$ iostat - reports statistics about CPU, IO and networking
+$ iostat, sar, top, etc - *NIX commands to monitor CPU, IO, networking, etc.
 
-$ sar - Collect and Report System Activity
+Cacti - network graphing tool with GUI
 
-Cacti - network graphing tool
+
 
 ## 6.3 - Faults and Problem Handling
 
@@ -35,6 +35,7 @@ Gitlab because it provides aditional features, such as workflow management and g
 ## 6.5 - Data Center Infrastructure Management
 
 OpenStack - platform for cloud computing
+	- integrates well with vagrant, docker and puppet
 
 TODO:
 Ver significado de:
