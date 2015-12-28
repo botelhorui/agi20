@@ -1,5 +1,29 @@
 Type of Cloud -IaaS - Infrastructure as a Service
 
+# 1 - Requirements
+
+## Types of Networks:
+
+- LTE
+- Physical (Ethernet, copper, fiber)
+- Wireless (Wi-Fi)
+
+## Non-Functional Requirements
+
+- High **security** for transactions and security system
+- High **availability** for airport - plane communications and security system
+- Medium **latency** (for voice services)
+
+## Datacenter
+
+- Servers: 
+	- storage (info about flights and tickets, internal statistics)
+	- processing (security, systems health monitoring, load balancing)
+
+- High bandwidth
+- Routers, firewalls, switches
+
+
 # 6 - Tools for managing the infrastructure
 
 ## 6.1 - Application/Systems Automation
