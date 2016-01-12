@@ -1,0 +1,36 @@
+Problem:
+	- Current airports have lots of infrastructures and networks built with different technologies and managed by distinct managers.
+Goal:
+	- Build an airport with a converged infrastructured, and the communications network must be able to scale.
+
+>>>>> Requirements:
+1) Build the converged infrastructure without compromising the performance of mission-critical applications, such as air traffic control (ATC), anti-collision systems, emergency communications or CCTV.
+
+2) Allow multiple tenants to share the same infrastructure and assure traffic isolation and protection from external attempts to penetrate the network.
+
+3) Help operates operate, monitor, and troubleshoot the IT Infrastructure.
+
+4) The traditional boundaries of element, network, and service management have made the tasks of service provisioning, cumbersome, and error prone, An effective cross-layer. service-aware manager can simplify the complexities.
+
+5) Allow IT department of individual agencies and tenants to view the performance and status of their services, as well as provision and modify service parameters.
+
+6) Provide a dynamic and more efficient way to define, provision, and activate services in order to respond to rapidly changing needs. In contrast to the current system where for each definition, provision, and activations needs to wait for a the network manager and/or operator
+
+7) Addressing, routing, security protocols required? 
+
+8) QoS?
+
+9) The network must be monitored for events. Performance must be monitored and have an hierarchy for management data flow?
+
+>>>>> Solutions:
+1) How to assure the same level of performance for the mission-critical applications?
+
+2) Use virtual private network (VPN) service to assure requirement.
+
+3) Integrate Operations, Administration, and Management (OAM) tools. Multi-layer OAM. In addition to the traditional OAM tools at the link, network, and transport layers, service layer OAM measurement allow operators to continuously monitor delivery performance 
+
+4) What service-aware managers are available?
+
+5) Make available to each client a service portal with a tailored span of network and scope-of-command control. With this portal, clients can have instant access to their own portion of the network and perform taks within the scope-of-control policy
+
+6) With Software-Defined Network (SDN) paradigm, a shared network can be modeled as multiple, virtual, separate infrastructures, one for each tenant. Each network slice can have distinct network characteristics, such as low latency. With a service abstraction methodology, services provisioning and parameters change can be automated without operator intervention
